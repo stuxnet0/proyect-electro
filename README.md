@@ -1,5 +1,6 @@
 # proyect-electro
-Proyectos que se me van ocurriendo
+Proyectos que se me van ocurriendo.
+
 En el primer commit hemos subido los dos primeros archivos que estan en desarrollo.
 
 En el segundo commit hemos subido los src del proyecto
